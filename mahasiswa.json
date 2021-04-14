@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "NIM": 140823453,
+      "nama": "Mahasiswa X",
+      "alamat": "Jl. Menur No. 9 Surabaya",
+      "hp": "081802023523",
+      "angkatan": 2014,
+      "status": "lulus"
+    },
+    {
+      "id": 1618414309559,
+      "NIM": "1841720220",
+      "nama": "Nariandrimalala",
+      "alamat": "jalan andavamamba",
+      "hp": "0861462819",
+      "angkatan": "2018",
+      "status": "lulus"
+    }
+  ]
+}
